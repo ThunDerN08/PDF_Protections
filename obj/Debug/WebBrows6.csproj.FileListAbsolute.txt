@@ -1,0 +1,68 @@
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PdfSharp.Charting.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PdfSharp.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PdfSharp.xml
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PdfSharp.Charting.xml
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\de\PdfSharp.resources.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\de\PdfSharp.Charting.resources.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\Interop.AcroPDFLib.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\AxInterop.AcroPDFLib.dll
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\WebBrows6.csproj.ResolveComReference.cache
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\WebBrows6.Form1.resources
+c:\users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\WebBrows6.csproj.GenerateResource.Cache
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PDFProtect.exe.config
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\PDFProtect.Properties.Resources.resources
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\PDFProtect.exe
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\PDFProtect.pdb
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PDFProtect.exe.manifest
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PDFProtect.application
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PDFProtect.exe
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\bin\Debug\PDFProtect.pdb
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\PDFProtect.exe.manifest
+C:\Users\nitiwat.ch\documents\visual studio 2015\Projects\WebBrows6\WebBrows6\obj\Debug\PDFProtect.application
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PDFProtect.exe.config
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\Interop.AcroPDFLib.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\WebBrows6.csproj.ResolveComReference.cache
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\PDFProtect.exe
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\PDFProtect.pdb
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PDFProtect.exe.manifest
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PDFProtect.application
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PDFProtect.exe
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PDFProtect.pdb
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PdfSharp.Charting.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PdfSharp.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PdfSharp.xml
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\PdfSharp.Charting.xml
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\de\PdfSharp.resources.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\Interop.AcroPDFLib.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\WebBrows6.Form1.resources
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\PDFProtect.Properties.Resources.resources
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\WebBrows6.csproj.GenerateResource.Cache
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\PDFProtect.exe.manifest
+D:\WinApp\WebBrows6\WebBrows6\WebBrows6\obj\Debug\PDFProtect.application
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PDFProtect.exe.config
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\WebBrows6.csproj.ResolveComReference.cache
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\PDFProtect.exe
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\PDFProtect.pdb
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PDFProtect.exe.manifest
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PDFProtect.application
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PDFProtect.exe
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PDFProtect.pdb
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PdfSharp.xml
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\PdfSharp.Charting.xml
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\WebBrows6.csprojResolveAssemblyReference.cache
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\WebBrows6.Form1.resources
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\PDFProtect.Properties.Resources.resources
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\WebBrows6.csproj.GenerateResource.Cache
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\PDFProtect.exe.manifest
+C:\Users\nitiwat.ch\Desktop\work\code\PDF Protections\obj\Debug\PDFProtect.application
